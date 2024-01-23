@@ -1,4 +1,0 @@
-merge conflict 
-{ 
-this is a jenkins file
-}
