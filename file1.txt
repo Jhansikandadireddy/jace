@@ -1,4 +1,4 @@
 merge conflict 
 { 
-this is a jenkins file
+this is a not a jenkins file
 }
